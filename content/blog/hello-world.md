@@ -9,7 +9,7 @@ keywords:
 - javascript
 - java
 location: Brum, UK
-slug: 
+slug: hello-world
 stylesheet: post.css
 tags: [ python, javascript]
 title: Hello World
