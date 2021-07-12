@@ -33,7 +33,7 @@ menu:
     - identifier: projects
       name: projects
       title: Projects
-      url: /project
+      url: /blog/projects
       weight: '50'
     - disableToc: 'false'
       identifier: resume
