@@ -1,0 +1,64 @@
+languageCode: en-us
+title: anirudhb
+baseURL: https://www.anirudhb.me
+copyright: Anirudh B © {year}
+params:
+  description: Making the things that help other people make things. Sophomore at
+    UC Berkeley passionate about CS, Economics, Astrophysics and Entrepreneurship.
+  github: anirudh-cloud
+  sitename: anirudhb
+  twitter: ani_thoughts
+menu:
+  main:
+    - identifier: home
+      name: home
+      title: Home
+      url: /
+      weight: '25'
+    - identifier: about
+      name: about me
+      title: About
+      url: /about
+      weight: '30'
+    - identifier: blog
+      name: blog
+      title: Blog
+      url: /blog
+      weight: '100'
+    - identifier: linkedin
+      name: linkedin
+      title: Linkedin
+      url: https://www.linkedin.com/in/b-anirudh
+      weight: '50'
+    - identifier: projects
+      name: projects
+      title: Projects
+      url: /projects
+      weight: '50'
+    - disableToc: 'false'
+      identifier: resume
+      name: resume
+      preserveTaxonomyNames: yes
+      title: Resume
+      url: /resume.pdf
+      weight: '50'
+taxonomies:
+  tag: tags
+markup:
+  goldmark:
+    extensions:
+      definitionList: yes
+      footnote: yes
+      linkify: yes
+      strikethrough: yes
+      table: yes
+      taskList: yes
+      typographer: yes
+    parser:
+      attribute: yes
+      autoHeadingID: yes
+      autoHeadingIDType: github
+    renderer:
+      hardWraps: no
+      unsafe: yes
+      xhtml: no
