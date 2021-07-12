@@ -1,20 +1,14 @@
 ---
-date: "2021-07-12T21:18:11-07:00"
-description: Everything in CS begins the same way.
+title: "Hello World"
+date: 2021-07-11T09:19:29-04:00
+slug: "hello-world"
+description: "Everything in CS begins the same way."
+keywords: ["python", "javascript"]
 draft: false
-keywords:
-- hello world
-- python
-- tradition
-- javascript
-- java
-location: Brum, UK
-slug: hello-world
-stylesheet: post.css
-tags: [ python, javascript]
-title: Hello World
+tags: ["python"]
+stylesheet: "post.css"
+location: "Brum, UK"
 ---
-
 What can I say? I'm big on tradition.
 
 ## Python
