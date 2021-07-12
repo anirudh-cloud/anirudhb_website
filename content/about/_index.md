@@ -1,15 +1,19 @@
 ---
-title: "About Me, Summer 2021 \U0001F4AA"
+title: "About Me, \U0001F4AA"
 ---
 
-## Test 1
-This summer, I'm interning at Salesforce, on the Lightning Data Service team! It's exciting to be able to work on a project with a long legacy, to design and implement ideas that will be used by millions.
+Hi, I'm Ani.
 
-## BEGIN Developer
-I'm working as a Web Developer and Marketing Specialist for Berkeley SCET's [Gateway To Innovation Program](https://begin.berkeley.edu)! It's an exciting prospect to be able to help introduce people to the startup space around Berkeley and create a community of innovators and entrepreneurs!
+I was born and raised in India, and currently based out of the UK. I am a Tech Architect and a SaaS enthusiast. For the last 10 years I have been building and shaping products. I have led small and medium sized teams to achieve success and growth.
 
-## Floodgate Outliers
-I'm participating the Floodgate Outliers program, geared towards creating a community of ambitious college students and professional development.
+I love to get my hands dirty in day to day problems by solving them using modern and viable technology. I create, scale and optimize product portfolios that make a difference. To accomplish this, I focus on key results, build amazing teams and quickly adapt to new insights.
 
-## Previous Abouts
-Check out what I did [last fall](/blog/fall20) or [last summer](/blog/summer20/)!
+Being an entrepreneur I have got to play a myriad of roles throughout my career in product management, product building, technical sales, engineering and strategy.
+
+Over the last couple of years, wherever I would go, whoever I would talk to, all I could hear was how data and machine learning is going to transform the world. It was this that pumped me to take the plunge back to academics and study Business Analytics from one of the best practitioners in the world at Warwick Business School.
+
+With both practical experience of dealing with fortune 500 clients and theoretical knowledge of analytics in my quiver, I am now, more than ever, ready to add value to high impact products.
+
+To know more about the products I have shaped - please click here.
+
+To hire me for a quick consultation or a complete product revamp, please write to me at anib\@anib.me

@@ -1,12 +1,12 @@
 languageCode: en-us
 title: anirudhb
 baseURL: https://www.anirudhb.me
-copyright: Anirudh B © {year}
+copyright: Ani B © {year}
 params:
-  description: Making the things that help other people make things. Sophomore at
-    UC Berkeley passionate about CS, Economics, Astrophysics and Entrepreneurship.
+  description: Making the things that help other people make things. Masters student at
+    WBS passionate about data, products, Economics and Entrepreneurship.
   github: anirudh-cloud
-  sitename: anirudhb
+  sitename: anib
   twitter: ani_thoughts
 menu:
   main:
@@ -30,18 +30,20 @@ menu:
       title: Linkedin
       url: https://www.linkedin.com/in/b-anirudh
       weight: '50'
-    - identifier: projects
-      name: projects
-      title: Projects
-      url: /blog/projects
+    - identifier: products
+      name: products
+      title: Products
+      url: /s/products
       weight: '50'
-    - disableToc: 'false'
-      identifier: resume
+    - identifier: resume
       name: resume
       preserveTaxonomyNames: yes
       title: Resume
       url: /resume.pdf
       weight: '50'
+
+preserveTaxonomyNames: true
+disableToc: 'false'
 taxonomies:
   tag: tags
 markup:
