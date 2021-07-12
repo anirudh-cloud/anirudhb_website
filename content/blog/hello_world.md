@@ -11,7 +11,7 @@ keywords:
 location: Brum, UK
 slug: 
 stylesheet: post.css
-tags: [blog, python, javascript]
+tags: [ python, javascript]
 title: Hello World
 ---
 
