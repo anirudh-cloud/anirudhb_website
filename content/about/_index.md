@@ -14,6 +14,6 @@ Over the last couple of years, wherever I would go, whoever I would talk to, all
 
 With both practical experience of dealing with fortune 500 clients and theoretical knowledge of analytics in my quiver, I am now, more than ever, ready to add value to high impact products.
 
-To know more about the products I have shaped - please click here.
+To know more about the products I have shaped - [please click here](/s/products).
 
 To hire me for a quick consultation or a complete product revamp, please write to me at anib\@anib.me
