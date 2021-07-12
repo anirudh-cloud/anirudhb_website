@@ -1,12 +1,12 @@
 languageCode: en-us
 title: anirudhb
-baseURL: https://www.anirudhb.me
+baseURL: https://www.ani-b.me
 copyright: Ani B © {year}
 params:
   description: Making the things that help other people make things. Masters student at
     WBS passionate about data, products, Economics and Entrepreneurship.
   github: anirudh-cloud
-  sitename: anib
+  sitename: ani-b
   twitter: ani_thoughts
 menu:
   main:
