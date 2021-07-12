@@ -2,7 +2,7 @@
 title: "The products I have helped build \U0001F60D"
 ---
 
-## DOST - Delivery Optimisation and Shared Transportation (2014 - 2020)
+## Delivery Optimisation and Shared Transportation (2014 - 2020)
 
 www.dost.io
 
