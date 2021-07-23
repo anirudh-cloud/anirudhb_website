@@ -5,7 +5,7 @@ title: Anirudh B
 ---
 A product owner at heart, data analyst by education,
 
-and a failed entrepreneur by tough luck :)
+and an experienced entrepreneur :)
 
 <!-- Anirudh B>
 #Ani B
